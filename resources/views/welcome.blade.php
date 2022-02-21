@@ -8,7 +8,7 @@
     </head>
     <body class="bg-primary">
         <div id="app">
-            <app currentIP="{{ $_SERVER['REMOTE_ADDR'] }}"></app>
+            <app></app>
         </div>
     </body>
 </html>
